@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Golang, MySQL, and LLMs**
 
-- 👨‍💻 All of my projects are available at [https://birukmaru-portfolio.netlify.app/](https://birukmaru-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://birukmaru-portfolio.netlify.app/](https://portfolio-latest-eight-phi.vercel.app/)
 
 - 💬 Ask me about **React, Flutter, Express, NestJS, and MongoDB**
 
