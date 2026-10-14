@@ -107,18 +107,8 @@ I choose tools based on the product's requirements rather than forcing every pro
 ## GitHub Activity
 
 <p align="center">
-  <img src="profile/stats.svg?v=2026-10-15" alt="Biruk's GitHub statistics — accurate via GraphQL" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukmaru&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=birukmaru&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/birukmaru/birukmaru/actions/workflows/profile-stats.yml">
-    <img src="https://github.com/birukmaru/birukmaru/actions/workflows/profile-stats.yml/badge.svg" alt="Update stats workflow status" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=birukmaru&show_icons=true&hide_border=true&rank_icon=github" alt="Biruk's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukmaru&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
