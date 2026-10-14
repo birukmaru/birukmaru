@@ -111,6 +111,10 @@ I choose tools based on the product's requirements rather than forcing every pro
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukmaru&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions_(last_year)-1,122-brightgreen?style=flat&logo=github&logoColor=white" alt="1,122 contributions in the last year" />
+</p>
+
 ---
 
 ## Let's Work Together
