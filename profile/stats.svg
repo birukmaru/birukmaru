@@ -1,0 +1,14 @@
+<svg width="495" height="270" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .c { font-family: 'Segoe UI', -apple-system, system-ui, sans-serif; }
+  .title { font-size: 17px; font-weight: 700; fill: #58a6ff; }
+  .subtitle { font-size: 11px; fill: #8b949e; }
+</style>
+<rect width="495" height="270" fill="#0d1117" rx="8"/>
+<text x="25" y="30" class="title c">Biruk Maru's GitHub Stats</text>
+<text x="25" y="48" class="subtitle c">First run in progress…</text>
+<text x="25" y="135" class="subtitle c">The GitHub Action is fetching live data from</text>
+<text x="25" y="153" class="subtitle c">the GraphQL API and will overwrite this card</text>
+<text x="25" y="171" class="subtitle c">within ~30 seconds. After that it refreshes</text>
+<text x="25" y="189" class="subtitle c">daily at 05:17 UTC.</text>
+</svg>
